@@ -11,3 +11,5 @@ console.log(elementOfTwo);
 
 let squareOfElement = array.map((element) => element * element)
 console.log(squareOfElement)
+
+//seen
